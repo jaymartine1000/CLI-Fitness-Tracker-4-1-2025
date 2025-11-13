@@ -1,0 +1,12 @@
+# Do not commit personal weight logs
+user_data.json
+
+# Common Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.env
